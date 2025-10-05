@@ -168,12 +168,6 @@ The code is organized by design pattern, with clear separation of concerns:
 - Each pattern has a dedicated folder
 - Naming conventions clearly indicate pattern roles (Factory, Command, etc.)
 
-## Author
-
-**Carlo Chung**
-- Created: August 2010
-- Copyright © 2010 Carlo Chung. All rights reserved.
-
 ## License
 
 This is educational source code accompanying the *Pro Objective-C Design Patterns for iOS* book.
